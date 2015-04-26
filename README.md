@@ -1,0 +1,2 @@
+# debnetconf
+Reconfigration du reseau
